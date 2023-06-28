@@ -5,7 +5,7 @@
 
 <img align="right" src="https://miro.medium.com/v2/resize:fit:1000/1*0OosM_BVC9dNILDoyvUGAg.gif" alt="coding" width="400" >
 
-- 📚 Curently pusueing engineering in Computer Science at IIT kharagpur
+- 📚 Curently pursueing engineering in Computer Science at IIT kharagpur
 
 - 🌱 I’m currently learning **Machine learning , React , Cyber security**
 
