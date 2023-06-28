@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Navaneeth Shaji</h1>
 <h3 align="center">A passionate Student developer from Kerala ,India</h3>
 
-<img align="right" src="https://miro.medium.com/v2/resize:fit:1000/1*0OosM_BVC9dNILDoyvUGAg.gif" alt="coding" width="400" >
+
 
 - 📚 Curently pursueing engineering in Computer Science at IIT kharagpur
 
