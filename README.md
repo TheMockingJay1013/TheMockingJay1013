@@ -5,7 +5,7 @@
 
 
 
-- 📚 Curently pursueing engineering in Computer Science at IIT kharagpur
+- 📚 Curently a third year undergrad in Computer Science and Engineering at IIT kharagpur
 
 - 🌱 I’m currently learning **Machine learning , React , Cyber security**
 
