@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **navaneeth1013@gmail.com**
 
-- ⚡ Fun fact **Sometimes i wonder if AI has started lying to us .**
+- ⚡ **Sometimes i wonder if AI has started lying to us .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
